@@ -1,0 +1,15 @@
+name: "LLMonitor"
+website_url: "https://llmonitor.com"
+source_code_url: "https://gitlab.com/llmonitor/llmonitor"
+description: "Analytics & observability toolkit for AI apps"
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+  - Nodejs
+  - Javascript
+  - Docker
+tags:
+  - Analytics
+  - Monitoring
+depends_3rdparty: no
